@@ -1,0 +1,29 @@
+noItems,type,shareType
+409790,total,"0    100.0
+Name: noItems, dtype: float64"
+241147,Human,"0    58.846482
+Name: noItems, dtype: float64"
+39,Wikimedia news article,"0    0.009517
+Name: noItems, dtype: float64"
+6164,Taxon,"0    1.504185
+Name: noItems, dtype: float64"
+7135,Chemical compound,"0    1.741136
+Name: noItems, dtype: float64"
+54967,Administrative territorial entity,"0    13.413456
+Name: noItems, dtype: float64"
+1003,Event,"0    0.24476
+Name: noItems, dtype: float64"
+12284,Architectural structure,"0    2.997633
+Name: noItems, dtype: float64"
+78,Wikimedia list article,"0    0.019034
+Name: noItems, dtype: float64"
+114,Wikimedia disambiguation page,"0    0.027819
+Name: noItems, dtype: float64"
+41405,Film,"0    10.103956
+Name: noItems, dtype: float64"
+131,Thoroughfare,"0    0.031968
+Name: noItems, dtype: float64"
+7787,Astronomical object,"0    1.900242
+Name: noItems, dtype: float64"
+37536,"Other,No P31/P279","0    9.159814
+Name: noItems, dtype: float64"
