@@ -1,8 +1,6 @@
 noItems,type,shareType
-83600,total,"0    100.0
-Name: noItems, dtype: float64"
-33091,Human,"0    39.582536
-Name: noItems, dtype: float64"
+83600,total,"0    100"
+33091,Human,"0    39.582536"
 16,Wikimedia news article,"0    0.019139
 Name: noItems, dtype: float64"
 684,Taxon,"0    0.818182
