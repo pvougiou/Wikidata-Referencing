@@ -1,27 +1,15 @@
 noItems,type,shareType
-83600,total,"0    100"
-33091,Human,"0    39.582536"
-16,Wikimedia news article,"0    0.019139
-Name: noItems, dtype: float64"
-684,Taxon,"0    0.818182
-Name: noItems, dtype: float64"
-258,Chemical compound,"0    0.308612
-Name: noItems, dtype: float64"
-21582,Administrative territorial entity,"0    25.815789
-Name: noItems, dtype: float64"
-389,Event,"0    0.465311
-Name: noItems, dtype: float64"
-1308,Architectural structure,"0    1.564593
-Name: noItems, dtype: float64"
-25,Wikimedia list article,"0    0.029904
-Name: noItems, dtype: float64"
-37,Wikimedia disambiguation page,"0    0.044258
-Name: noItems, dtype: float64"
-15382,Film,"0    18.399522
-Name: noItems, dtype: float64"
-54,Thoroughfare,"0    0.064593
-Name: noItems, dtype: float64"
-3292,Astronomical object,"0    3.937799
-Name: noItems, dtype: float64"
-7482,"Other, No P31/P279","0    8.949761
-Name: noItems, dtype: float64"
+83600,total,100
+33091,Human,39.582536
+16,Wikimedia news article,0.019139
+684,Taxon,0.818182
+258,Chemical compound,0.308612
+21582,Administrative territorial entity,25.815789
+389,Event,0.465311
+1308,Architectural structure,1.564593
+25,Wikimedia list article,0.029904
+37,Wikimedia disambiguation page,0.044258
+15382,Film,18.399522
+54,Thoroughfare,0.064593
+3292,Astronomical object,3.937799
+7482,"Other, No P31/P279",8.949761
