@@ -6,7 +6,7 @@ Visualizing information about references in Wikidata.
 To run the code, use Jupyter Notebooks to run *References Script.ipynb*.
 
 ## Data
-That *Data* folder contains csv files with information about references on the respective language Wikipedia. 
+The *Data* folder contains csv files with information about references on the respective language Wikipedia. 
 
 * <languga-code>_used_domains.csv -- domains used in this language Wikipedia as reference
 * <languga-code>_used_tld.csv -- tlds used in this language Wikipedia as reference
